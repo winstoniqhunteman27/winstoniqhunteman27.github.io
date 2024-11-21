@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://winstoniqhunteman27.github.io/winstoniqhunteman27_github_io_zp528_11.txt
+Sitemap: https://winstoniqhunteman27.github.io/winstoniqhunteman27_github_io_zp528_16.txt
+Sitemap: https://winstoniqhunteman27.github.io/winstoniqhunteman27_github_io_zp528_20.txt
+Sitemap: https://winstoniqhunteman27.github.io/winstoniqhunteman27_github_io_zp528_25.txt
+Sitemap: https://winstoniqhunteman27.github.io/winstoniqhunteman27_github_io_zp528_4.txt
+Sitemap: https://winstoniqhunteman27.github.io/winstoniqhunteman27_github_io_zp528_9.txt
